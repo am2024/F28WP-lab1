@@ -1,0 +1,3 @@
+This is my second file in coding.
+This is a part of the "myFirstBranch" branch
+A Pull Request will me made and this file will be merged into thr master branch!
